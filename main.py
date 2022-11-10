@@ -1,3 +1,4 @@
+#November 10th 2022
 #The fibonaucci sequence is a series of numbers where each entry is equal to the sum of the previous two
 #ex. 0 1 1 2 3 5 8
 #0 + 1 = 1,  1 + 1 = 2,  1 + 2 = 3,  2 + 3 = 5,  3 + 5 = 8
